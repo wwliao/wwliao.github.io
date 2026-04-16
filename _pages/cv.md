@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Biology and Biomedical Sciences, Washington University in St. Louis, 2023
+* M.S. in Systems Neuroscience, National Tsing Hua University, 2011
+* B.S. in Life Science, National Tsing Hua University, 2009
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Present: Postdoctoral Associate
+  * Yale University
+  * Supervisor: Ira Hall
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2023: Research Affiliate (PhD research)
+  * Yale University
+  * Supervisor: Ira Hall
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018: Research Assistant
+  * Washington University in St. Louis
+  * Supervisor: Li Ding
   
+* 2015-2017: Computational Science Developer
+  * Cold Spring Harbor Laboratory
+  * Supervisor: Molly Gale Hammell
+
+* 2013-2015: Research Assistant
+  * Academia Sinica
+  * Supervisor: Pao-Yang Chen
+
 Skills
 ======
 * Skill 1
